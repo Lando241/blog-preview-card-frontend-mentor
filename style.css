@@ -9,7 +9,10 @@ body {
   font-family: "Figtree", sans-serif;
   color: hsl(0, 0%, 7%);
   max-width: 1440px;
-  margin: 0 auto;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* Desktop View */
@@ -18,7 +21,6 @@ article {
   display: flex;
   flex-direction: column;
   gap: 24px;
-  margin: 96px auto;
   padding: 24px;
   height: 528px;
   width: 384px;
