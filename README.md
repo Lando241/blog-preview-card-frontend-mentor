@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL:](https://your-solution-url.com)
-- [Live Site URL:](https://lando241.github.io/blog-preview-card-frontend-mentor/)
+- [Solution URL](https://www.frontendmentor.io/solutions/blog-preview-card-M-w1z7fptC)
+- [Live Site URL](https://lando241.github.io/blog-preview-card-frontend-mentor/)
 
 ### Built with
 
